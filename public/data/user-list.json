@@ -1,0 +1,11 @@
+
+{
+  "draw":0,
+  "recordsTotal":2,
+  "recordsFiltered":2,
+  "data":
+  [
+    {"responsive_id": "","id":1,"name":"Elo","prenom":"khaoula","email":"khawla@gmail.com","phone":"0645743797","role":"Editeur"},
+    {"responsive_id": "","id":2,"name":"Admin","prenom":"Test","email":"admin@p2m.ma","phone":"0645743797","role":"admin"}],
+    "input":[]
+  }
